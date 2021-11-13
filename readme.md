@@ -70,12 +70,13 @@ Strona dla zarejestrowanych użytkowników i adminów do grania oraz zarządzani
 
 ```
 ## Do zrobienia/przemyślenia/zmienia:
+```bash
 1. Tworzenie logów gry
 2. Tworzenie logów admina
 3. Liczenie progresu
 4. Aktualizacja grafik i tekstów
 5. Kwestie optymalizacyjne
-
+```
 
 ## Cheers
 Tomasz Dzioba
